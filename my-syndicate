@@ -1,5 +1,0 @@
-
-cd /root/my-syndicate
-git remote add origin https://github.com/Saratigoo/my-syndicate.git
-git branch -M main
-git push -u origin main --force

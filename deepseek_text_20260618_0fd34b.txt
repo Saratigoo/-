@@ -1,3 +1,0 @@
-ODDS_API_KEY_OLD=e7fb093ed2f6152114b7f1ccce58a0e2
-ODDS_API_KEY_IO=ваш_новый_ключ_с_odds-api.io
-OPENAI_API_KEY=8e7010e2e7402d2ae15fbf4372eb0b1dc0f907f26fb9bde8b3813da39797bd85
