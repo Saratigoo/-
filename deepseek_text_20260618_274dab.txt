@@ -1,0 +1,4 @@
+my-syndicate/
+├── server.js          # основной код
+├── package.json       # зависимости и скрипты
+└── .gitignore         # чтобы не пушить node_modules и .env
